@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "clean": "nodemon purifycss.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "purgecss": "^5.0.0",
+    "purify-css": "^1.2.5"
+  }
+}
